@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 </p>
 <br>
-<p align="center">
+
 [![Hasi-b's Streak](http://github-readme-streak-stats.herokuapp.com?user=hasi-b&theme=dark)](https://git.io/streak-stats)
 
-</p>
 
-<p align="center">
+
+
 [![Hasi-b's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasi-b&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
