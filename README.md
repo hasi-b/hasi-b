@@ -1,7 +1,7 @@
 ### Wassup!! <img src="https://media.giphy.com/media/ciGXBxyAWPps0hzIs7/giphy.gif" width="120px" height="120px">
 - 🔭 I’m currently working on Unity 
 - 🌱 I’m currently learning Unreal,Unity,Design Pattern 
-- 📫 How to reach me: [Gmail](hasib.hasan9@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hasi-b-hasan/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hasi-b-hasan/)
 - 🎮 Play My Games: [itch](https://hasi-b.itch.io/)
 - 📹 Watch People Play My Game: [Youtube](https://www.youtube.com/playlist?list=PLy2c6atLmhnVocRvyjju_RrUbGxU7Ela9)
 
